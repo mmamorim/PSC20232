@@ -32,12 +32,13 @@ public class SVG {
             out.write("<svg viewBox=\"0 0 1000 1000\" xmlns=\"http://www.w3.org/2000/svg\">");
             out.newLine();
             for (Object elem : elems) {
-                System.out.println(elem);
+                //System.out.println(elem);
                 out.write(elem.toString());
                 out.newLine();
             }
             out.write("</svg>");
             out.close();
+            System.out.println("arquivo "+filename+" foi salvo com sucesso!");
         } catch (IOException ex) {
             System.out.println("Error");
         }
