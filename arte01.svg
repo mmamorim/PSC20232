@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="45" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="70" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="95" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="120" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="145" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="170" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="195" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="220" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="245" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="20" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="45" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="70" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="95" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="120" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="145" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="170" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="195" y="10" width="20" height="100" rx="3" fill="green" />
+<rect x="220" y="10" width="20" height="100" rx="3" fill="blue" />
+<rect x="245" y="10" width="20" height="100" rx="3" fill="green" />
+<circle cx="849" cy="379" r="133" fill="red" />
+<circle cx="753" cy="649" r="61" fill="red" />
+<circle cx="49" cy="930" r="67" fill="red" />
+<circle cx="335" cy="348" r="92" fill="red" />
+<circle cx="778" cy="908" r="105" fill="red" />
+<circle cx="872" cy="755" r="144" fill="red" />
+<circle cx="969" cy="835" r="100" fill="red" />
+<circle cx="347" cy="333" r="83" fill="red" />
+<circle cx="756" cy="247" r="94" fill="red" />
+<circle cx="3" cy="975" r="139" fill="red" />
+<line x1="500" y1="500" x2="10" y2="10" stroke-width="3" stroke="black" />
+</svg>
