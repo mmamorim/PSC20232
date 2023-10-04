@@ -23,3 +23,9 @@
 * Exemplo01 (Laco1.java)
 * Exemplo02 (Laco2.java)
 * Exemplo03 (Laco3.java)
+* Arte0 (Arte0.java) (usando a classe SVG)
+* Arte01 (Arte01.java) (usando a classe SVG)
+
+### DESAFIO AULA 06
+* Crie um programa que desenhe pelo menos 20 retângulos de cores, tamanhos e posições diferentes. A imagem gerada deverá ter 20 círculos onde para cada circulo, tenha uma linha do centro do circulo até cada canto dos retângulos.
+

@@ -5,7 +5,6 @@ import SVG.SVG;
 
 public class Arte0 {
     public static void main(String args[]) {
-        Scanner leitor = new Scanner(System.in);
 
         SVG svg = new SVG();
 
