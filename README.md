@@ -4,27 +4,27 @@
 
 ### pasta SVG
 
-* SVG.java
+* [SVG.java](SVG/SVG.java)
 
 ### pasta aula04
 
-* Digitos.java
-* Reuniao.java
+* [Digitos.java](aula04/Digitos.java)
+* [Reuniao.java](aula04/Reuniao.java)
 
 ### pasta aula05
 
 * Desvios condicionais ```if ... else```
-* Maior de 2 (versão 1 e 2)
-* Maior de 3 (versão 1, 2 e 3)
+* Maior de 2 (versão 1 e 2) [Maior2.java](aula05/Maior2.java)
+* Maior de 3 (versão 1, 2 e 3) [MaiorDe3.java](aula05/MaiorDe3.java) [MaiorDe3v2.java](aula05/MaiorDe3v2.java) [MaiorDe3v3.java](aula05/MaiorDe3v3.java)
 
 ### pasta aula06
 
 * Laços de repetição ```while e for```
-* Exemplo01 (Laco1.java)
-* Exemplo02 (Laco2.java)
-* Exemplo03 (Laco3.java)
-* Arte0 (Arte0.java) (usando a classe SVG)
-* Arte01 (Arte01.java) (usando a classe SVG)
+* Exemplo01 [Laco1.java](aula06/Laco1.java)
+* Exemplo02 [Laco2.java](aula06/Laco2.java)
+* Exemplo03 [Laco3.java](aula06/Laco3.java)
+* Arte0 [Arte0.java](aula06/Arte0.java) (usando a classe SVG)
+* Arte01 [Arte01.java](aula06/Arte01.java) (usando a classe SVG)
 
 #### DESAFIO AULA 06
 * Crie um programa que desenhe pelo menos 20 retângulos de cores, tamanhos e posições diferentes. A imagem gerada deverá ter 20 círculos onde para cada circulo, tenha uma linha do centro do circulo até cada canto dos retângulos.
