@@ -37,12 +37,12 @@
 #### Materiais de apoio - PDF
 
 * Exemplo Pessoa com Construtor / Métodos de Acesso 
-* Capítulo 1,2,3 - Texto de apoio - PDF
-* Exercícios: [Atividade.pdf](atividade.pdf), Gladiadores.pdf, Penaltis.pdf
+* [capitulo1.pdf](capitulo1.pdf), [capitulo2.pdf](capitulo2.pdf) e [capitulo3.pdf](capitulo3.pdf) - Texto de apoio - PDF
+* Exercícios: [Atividade.pdf](atividade.pdf), [Gladiadores.pdf](gladiadores.pdf), [Penaltis.pdf](penaltis.pdf)
 
 ### pasta aula08
 
-* Solução do exercício 2a e 2b (Avião/Piloto)
+* Solução do exercício 2a e 2b ([Avião](aula08/Aviao.java)/[Piloto](aula08/Piloto.java))
 
 
 
