@@ -33,4 +33,16 @@
 
 * Introdução a Orientação a Objetos
 * Exemplo Media do Aluno
+
+#### Materiais de apoio - PDF
+
 * Exemplo Pessoa com Construtor / Métodos de Acesso 
+* Capítulo 1,2,3 - Texto de apoio - PDF
+* Exercícios: Atividade.pdf, Gladiadores.pdf, Penaltis.pdf
+
+### pasta aula08
+
+* Solução do exercício 2a e 2b (Avião/Piloto)
+
+
+
