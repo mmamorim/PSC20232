@@ -38,7 +38,7 @@
 
 * Exemplo Pessoa com Construtor / Métodos de Acesso 
 * Capítulo 1,2,3 - Texto de apoio - PDF
-* Exercícios: Atividade.pdf, Gladiadores.pdf, Penaltis.pdf
+* Exercícios: [Atividade.pdf](atividade.pdf), Gladiadores.pdf, Penaltis.pdf
 
 ### pasta aula08
 
