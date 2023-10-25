@@ -45,4 +45,9 @@
 * Solução do exercício 2a e 2b ([Avião](aula08/Aviao.java)/[Piloto](aula08/Piloto.java))
 
 
+### pasta aula09
+
+* Solução do exercício 4a e 4b ([TimeFutebol](aula09/TimeFutebol.java)/[Campeonato](aula09/Campeonato.java))
+* Solução do exercício Gladiadores.pdf ([Arma](aula09/Arma.java)/[Gladiador](aula09/Gladiador.java)) ([Arena](aula09/Arena.java)/[ExercGladiadores](aula09/ExercGladiadores.java))
+
 
