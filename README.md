@@ -38,7 +38,12 @@
 
 * Exemplo Pessoa com Construtor / Métodos de Acesso 
 * [capitulo1.pdf](capitulo1.pdf), [capitulo2.pdf](capitulo2.pdf) e [capitulo3.pdf](capitulo3.pdf) - Texto de apoio - PDF
-* Exercícios: [Atividade.pdf](atividade.pdf), [Gladiadores.pdf](gladiadores.pdf), [Penaltis.pdf](penaltis.pdf)
+
+### pasta [Exercícios](./Exercicios/)
+
+* Exercícios: [Atividade.pdf](./Exercicios/atividade.pdf), [Gladiadores.pdf](./Exercicios/gladiadores.pdf), [Penaltis.pdf](./Exercicios/penaltis.pdf)
+* Exercícios (Herança): [heranca.pdf](./Exercicios/heranca.pdf)
+* Exercícios (Polimorfismo/Exceções): [heranca.pdf](./Exercicios/polimorfismo-excecoes.pdf)
 
 ### pasta aula08
 
