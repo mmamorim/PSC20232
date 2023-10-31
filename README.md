@@ -43,7 +43,7 @@
 
 * Exercícios: [Atividade.pdf](./Exercicios/atividade.pdf), [Gladiadores.pdf](./Exercicios/gladiadores.pdf), [Penaltis.pdf](./Exercicios/penaltis.pdf)
 * Exercícios (Herança): [heranca.pdf](./Exercicios/heranca.pdf)
-* Exercícios (Polimorfismo/Exceções): [heranca.pdf](./Exercicios/polimorfismo-excecoes.pdf)
+* Exercícios (Polimorfismo/Exceções): [polimorfismo-excecoes.pdf](./Exercicios/polimorfismo-excecoes.pdf)
 
 ### pasta aula08
 
