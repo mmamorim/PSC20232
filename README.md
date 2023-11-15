@@ -60,3 +60,5 @@
 Classes Janela (JFRAME)
 
 ### pasta AulaBancoDados ([AulaBancoDados](AulaBancoDados/))
+
+link para o sqlitestudio [sqlitestudio.pl](https://sqlitestudio.pl/)
